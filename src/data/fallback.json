@@ -1,0 +1,34 @@
+[
+  {
+    "name": "smart-irrigation-system",
+    "description": "Sistem irigasi pertanian cerdas berbasis IoT menggunakan sensor kelembaban tanah, ESP32, dan protokol MQTT untuk menyiram tanaman secara otomatis.",
+    "topics": ["iot", "esp32", "mqtt", "arduino", "python"],
+    "html_url": "https://github.com/iqbaldev/smart-irrigation-system",
+    "homepage": "https://irrigation-dashboard.iqbal.dev",
+    "stargazers_count": 12
+  },
+  {
+    "name": "eco-store-front",
+    "description": "Platform e-commerce modern dengan performa tinggi menggunakan Next.js App Router, Tailwind CSS, Stripe checkout, dan CMS headless.",
+    "topics": ["web-dev", "nextjs", "typescript", "tailwind", "nodejs"],
+    "html_url": "https://github.com/iqbaldev/eco-store-front",
+    "homepage": "https://ecostore.iqbal.dev",
+    "stargazers_count": 8
+  },
+  {
+    "name": "crop-disease-classification",
+    "description": "Klasifikasi penyakit daun padi menggunakan deep learning CNN (Convolutional Neural Network) berbasis TensorFlow Keras dengan visualisasi gradien Grad-CAM.",
+    "topics": ["machine-learning", "python", "tensorflow", "cnn", "flask"],
+    "html_url": "https://github.com/iqbaldev/crop-disease-classification",
+    "homepage": "",
+    "stargazers_count": 5
+  },
+  {
+    "name": "smart-home-mqtt",
+    "description": "Sistem kendali lampu dan alat elektronik rumah tangga multi-ruangan terintegrasi via WebSocket dan dashboard Next.js real-time.",
+    "topics": ["iot", "web-dev", "esp32", "mqtt", "nextjs"],
+    "html_url": "https://github.com/iqbaldev/smart-home-mqtt",
+    "homepage": "https://smarthome.iqbal.dev",
+    "stargazers_count": 15
+  }
+]
